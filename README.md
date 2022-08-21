@@ -70,7 +70,7 @@ sudo apt-get install libswscale-dev
 7. OpenCV Configuration
 ```
 pip3 uninstall opencv-python-headless -y
-pip install opencv-python --upgrade
+pip3 install opencv-python --upgrade
 ```
 
 ### Run the inference program
