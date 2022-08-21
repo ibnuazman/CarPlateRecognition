@@ -34,7 +34,7 @@ cd yolov5
 ```
 pip3 install -r requirements.txt
 ```
-3. Install EasyOCR<br />
+3. Install EasyOCR  
 EasyOCR is used to convert the character in the image to text
 ```
 pip3 install easyocr
@@ -54,15 +54,15 @@ cd torchvision
 export BUILD_VERSION=0.8.1
 python3 setup.py install --user
 ```
-6. Check GPU details
-Check if you can GPU or not. Also check the version of Pytorch and torchvision to verify the installation is completed.
+6. Check GPU details  
+Check if you have GPU or not. Also check the version of Pytorch and torchvision to verify the installation is completed.
 ```
 cd ~
 python3 -c "import torchvision; print('CUDA available: ' + str(torch.cuda.is_available()))"
 python3 -c "import torch; print(torch.__version__)"
 python3 -c "import torchvision; print(torchvision.__version__)"
 ```
-***If you face some problems with libavformat and libswcale, run this code***
+   ***If you face some problems with libavformat and libswcale, run this code***
 ```
 sudo apt-get install libavformat-dev
 sudo apt-get install libswscale-dev
