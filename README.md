@@ -79,4 +79,4 @@ python3 main.py
 ```
 
 ## Conclusion
-Thank you to all that helped me through this program. Thanks to my friends, lecturers and family for supporting me. Thanks to all of you for running my program. Please let me know if you have any problems during running the program. You can reach me at my [email]((mailto:ibnuazman.11@gmail.com?subject=[GitHub]%20Car%20Plate%20Recognition)
+Thank you to all that helped me through this program. Thanks to my friends, lecturers and family for supporting me. Thanks to all of you for running my program. Please let me know if you have any problems during running the program. You can reach me at my [email](mailto:ibnuazman.11@gmail.com?subject=[GitHub]%20Car%20Plate%20Recognition)
