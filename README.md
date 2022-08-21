@@ -34,7 +34,7 @@ cd yolov5
 ```
 pip3 install -r requirements.txt
 ```
-3. Install EasyOCR\n
+3. Install EasyOCR<br />
 EasyOCR is used to convert the character in the image to text
 ```
 pip3 install easyocr
