@@ -9,13 +9,13 @@ This is a program to detect the car plate and recognize every character on it.
 Collect the image dataset of car plate and anotate every car plate in the image. You can use [Roboflow](https://roboflow.com/) to do anotation process.
 
 ## Model creation
-You can use my model directly or create your own model using ModelCreation.ipynb.
+You can use my model directly or create your own model using [ModelCreation.ipynb.](https://github.com/ibnuazman/CarPlateRecognition/blob/main/ModelCreation.ipynb)
 
 ## Jetson Nano configuration
 It is very important to configure your Jetson Nano first before run the program. Install all required library needed to run this program smoothly.
 
 ### Create an environment
-Create a new environment using Python verion 3.8 (if you do not create it yet)
+Create a new environment using Python verion 3.8 (if you do not created it yet)
 ```
 conda create -n myenv python=3.8
 ```
